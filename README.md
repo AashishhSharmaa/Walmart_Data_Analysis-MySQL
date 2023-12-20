@@ -50,3 +50,31 @@ To achieve this goal, our project aims to leverage data-driven decision-making p
 8. During which time of the day do customers give the most ratings per branch?
 9. Which day of the week receives the highest average ratings?
 10. Which day of the week attains the best average ratings per branch?
+
+## Approach Used
+
+1. **Data Wrangling:**
+   In the initial phase, thorough data inspection was conducted to identify and address any instances of NULL or missing values. A database was constructed, tables were created, and data was inserted. The absence of NULL values was ensured by setting the **NOT NULL** constraint during table creation. This meticulous process laid the groundwork for a clean and reliable dataset.
+
+   > 1. Constructed a robust database.
+   > 2. Created tables with a focus on data integrity.
+   > 3. Detected and addressed NULL values, ensuring data completeness.
+
+![Create Database and Table](https://github.com/AashishhSharmaa/Walmart_Data_Analysis-MySQL/assets/152653168/97fb7aad-110d-4e42-be31-61796f2a2903)
+
+2. **Feature Engineering:**
+   The feature engineering stage aimed to derive additional insights by creating new columns from existing data. This step enhances the dataset's richness and provides valuable information for addressing project objectives.
+
+   > 1. Introduced the `time_of_day` column to categorize sales into Morning, Afternoon, and Evening, facilitating analysis of peak sales periods.
+   > 2. Implemented the `day_name` column to extract and categorize transaction days by weekdays (Mon, Tue, Wed, Thur, Fri), aiding in understanding branch activity patterns throughout the week.
+   > 3. Created the `month_name` column to extract and categorize transaction months, enabling exploration of monthly sales trends and profitability.
+
+![Feature Engineering](https://github.com/AashishhSharmaa/Walmart_Data_Analysis-MySQL/assets/152653168/055eb7de-243e-4cc9-940f-86c787ed7d80)
+
+3. **Exploratory Data Analysis (EDA):**
+   Comprehensive exploratory data analysis was undertaken to address project-specific questions and objectives. This phase involved detailed examination of various aspects of the dataset to extract meaningful insights.
+
+![EDA](https://github.com/AashishhSharmaa/Walmart_Data_Analysis-MySQL/assets/152653168/5eda2ed6-b8dd-4a60-b803-b865951f1023)
+
+5. **Conclusion:**
+   In conclusion, the adopted approach encompassed meticulous data wrangling, insightful feature engineering, and rigorous exploratory data analysis. By ensuring data completeness, creating informative features, and extracting meaningful patterns, this methodology provides a solid foundation for deriving actionable insights. The subsequent phases of the project can now build upon these foundations to address specific business questions and optimize strategies for enhanced performance and profitability.

@@ -78,3 +78,15 @@ To achieve this goal, our project aims to leverage data-driven decision-making p
 
 5. **Conclusion:**
    In conclusion, the adopted approach encompassed meticulous data wrangling, insightful feature engineering, and rigorous exploratory data analysis. By ensuring data completeness, creating informative features, and extracting meaningful patterns, this methodology provides a solid foundation for deriving actionable insights. The subsequent phases of the project can now build upon these foundations to address specific business questions and optimize strategies for enhanced performance and profitability.
+
+## Skills Gained
+1. **Data Wrangling Proficiency**
+2. **SQL Database Management**
+3. **Feature Engineering Expertise**
+4. **Exploratory Data Analysis (EDA)**
+5. **Time-Series Analysis Skills**
+6. **Data Visualization Techniques**
+7. **Business Question Framing**
+8. **Critical Thinking and Problem Solving**
+9. **Communication of Technical Findings**
+10. **Strategic Analysis and Optimization**

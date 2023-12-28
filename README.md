@@ -76,7 +76,7 @@ To achieve this goal, our project aims to leverage data-driven decision-making p
 
 ![EDA](https://github.com/AashishhSharmaa/Walmart_Data_Analysis-MySQL/assets/152653168/5eda2ed6-b8dd-4a60-b803-b865951f1023)
 
-5. **Conclusion:**
+4. **Conclusion:**
    In conclusion, the adopted approach encompassed meticulous data wrangling, insightful feature engineering, and rigorous exploratory data analysis. By ensuring data completeness, creating informative features, and extracting meaningful patterns, this methodology provides a solid foundation for deriving actionable insights. The subsequent phases of the project can now build upon these foundations to address specific business questions and optimize strategies for enhanced performance and profitability.
 
 ## Skills Gained
